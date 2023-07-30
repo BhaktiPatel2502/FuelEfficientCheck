@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59908018344",
+    "project_id": "vehicledetails-f3299",
+    "storage_bucket": "vehicledetails-f3299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59908018344:android:c8a777d1056727ab1ff29d",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59908018344-25mmts7n7j5juhb3svlt8m07qus71blm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgKRU6UQJowel5qWmgGxmFhXbKXlpui8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59908018344-25mmts7n7j5juhb3svlt8m07qus71blm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
